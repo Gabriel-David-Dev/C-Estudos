@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AumentoSalario\AumentoSalario\bin\Debug\net6.0\AumentoSalario.exe
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AumentoSalario\AumentoSalario\bin\Debug\net6.0\AumentoSalario.deps.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AumentoSalario\AumentoSalario\bin\Debug\net6.0\AumentoSalario.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AumentoSalario\AumentoSalario\bin\Debug\net6.0\AumentoSalario.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AumentoSalario\AumentoSalario\bin\Debug\net6.0\AumentoSalario.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AumentoSalario\AumentoSalario\obj\Debug\net6.0\AumentoSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AumentoSalario\AumentoSalario\obj\Debug\net6.0\AumentoSalario.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AumentoSalario\AumentoSalario\obj\Debug\net6.0\AumentoSalario.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AumentoSalario\AumentoSalario\obj\Debug\net6.0\AumentoSalario.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AumentoSalario\AumentoSalario\obj\Debug\net6.0\AumentoSalario.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AumentoSalario\AumentoSalario\obj\Debug\net6.0\refint\AumentoSalario.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AumentoSalario\AumentoSalario\obj\Debug\net6.0\AumentoSalario.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AumentoSalario\AumentoSalario\obj\Debug\net6.0\AumentoSalario.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AumentoSalario\AumentoSalario\obj\Debug\net6.0\ref\AumentoSalario.dll
