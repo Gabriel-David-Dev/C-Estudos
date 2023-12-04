@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\MediaSalarial\MediaSalarial\bin\Debug\net6.0\MediaSalarial.exe
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\MediaSalarial\MediaSalarial\bin\Debug\net6.0\MediaSalarial.deps.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\MediaSalarial\MediaSalarial\bin\Debug\net6.0\MediaSalarial.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\MediaSalarial\MediaSalarial\bin\Debug\net6.0\MediaSalarial.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\MediaSalarial\MediaSalarial\bin\Debug\net6.0\MediaSalarial.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\MediaSalarial\MediaSalarial\obj\Debug\net6.0\MediaSalarial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\MediaSalarial\MediaSalarial\obj\Debug\net6.0\MediaSalarial.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\MediaSalarial\MediaSalarial\obj\Debug\net6.0\MediaSalarial.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\MediaSalarial\MediaSalarial\obj\Debug\net6.0\MediaSalarial.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\MediaSalarial\MediaSalarial\obj\Debug\net6.0\MediaSalarial.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\MediaSalarial\MediaSalarial\obj\Debug\net6.0\refint\MediaSalarial.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\MediaSalarial\MediaSalarial\obj\Debug\net6.0\MediaSalarial.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\MediaSalarial\MediaSalarial\obj\Debug\net6.0\MediaSalarial.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\MediaSalarial\MediaSalarial\obj\Debug\net6.0\ref\MediaSalarial.dll
