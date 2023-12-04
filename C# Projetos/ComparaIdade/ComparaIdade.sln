@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparaIdade", "ComparaIdade\ComparaIdade.csproj", "{116DE336-9869-4BF6-9B2A-DCE7509C1476}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{116DE336-9869-4BF6-9B2A-DCE7509C1476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{116DE336-9869-4BF6-9B2A-DCE7509C1476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{116DE336-9869-4BF6-9B2A-DCE7509C1476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{116DE336-9869-4BF6-9B2A-DCE7509C1476}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7D3B28C-FC37-4830-915A-2B43AB4F7088}
+	EndGlobalSection
+EndGlobal

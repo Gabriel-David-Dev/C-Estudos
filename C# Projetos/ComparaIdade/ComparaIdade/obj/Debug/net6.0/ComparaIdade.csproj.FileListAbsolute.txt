@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ComparaIdade\ComparaIdade\bin\Debug\net6.0\ComparaIdade.exe
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ComparaIdade\ComparaIdade\bin\Debug\net6.0\ComparaIdade.deps.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ComparaIdade\ComparaIdade\bin\Debug\net6.0\ComparaIdade.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ComparaIdade\ComparaIdade\bin\Debug\net6.0\ComparaIdade.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ComparaIdade\ComparaIdade\bin\Debug\net6.0\ComparaIdade.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ComparaIdade\ComparaIdade\obj\Debug\net6.0\ComparaIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ComparaIdade\ComparaIdade\obj\Debug\net6.0\ComparaIdade.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ComparaIdade\ComparaIdade\obj\Debug\net6.0\ComparaIdade.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ComparaIdade\ComparaIdade\obj\Debug\net6.0\ComparaIdade.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ComparaIdade\ComparaIdade\obj\Debug\net6.0\ComparaIdade.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ComparaIdade\ComparaIdade\obj\Debug\net6.0\refint\ComparaIdade.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ComparaIdade\ComparaIdade\obj\Debug\net6.0\ComparaIdade.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ComparaIdade\ComparaIdade\obj\Debug\net6.0\ComparaIdade.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ComparaIdade\ComparaIdade\obj\Debug\net6.0\ref\ComparaIdade.dll
