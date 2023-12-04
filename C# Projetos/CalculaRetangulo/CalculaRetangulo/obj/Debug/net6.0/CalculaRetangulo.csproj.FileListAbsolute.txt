@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CalculaRetangulo\CalculaRetangulo\bin\Debug\net6.0\CalculaRetangulo.exe
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CalculaRetangulo\CalculaRetangulo\bin\Debug\net6.0\CalculaRetangulo.deps.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CalculaRetangulo\CalculaRetangulo\bin\Debug\net6.0\CalculaRetangulo.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CalculaRetangulo\CalculaRetangulo\bin\Debug\net6.0\CalculaRetangulo.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CalculaRetangulo\CalculaRetangulo\bin\Debug\net6.0\CalculaRetangulo.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CalculaRetangulo\CalculaRetangulo\obj\Debug\net6.0\CalculaRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CalculaRetangulo\CalculaRetangulo\obj\Debug\net6.0\CalculaRetangulo.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CalculaRetangulo\CalculaRetangulo\obj\Debug\net6.0\CalculaRetangulo.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CalculaRetangulo\CalculaRetangulo\obj\Debug\net6.0\CalculaRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CalculaRetangulo\CalculaRetangulo\obj\Debug\net6.0\CalculaRetangulo.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CalculaRetangulo\CalculaRetangulo\obj\Debug\net6.0\refint\CalculaRetangulo.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CalculaRetangulo\CalculaRetangulo\obj\Debug\net6.0\CalculaRetangulo.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CalculaRetangulo\CalculaRetangulo\obj\Debug\net6.0\CalculaRetangulo.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CalculaRetangulo\CalculaRetangulo\obj\Debug\net6.0\ref\CalculaRetangulo.dll
