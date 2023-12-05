@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CompraDolar\CompraDolar\bin\Debug\net6.0\CompraDolar.exe
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CompraDolar\CompraDolar\bin\Debug\net6.0\CompraDolar.deps.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CompraDolar\CompraDolar\bin\Debug\net6.0\CompraDolar.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CompraDolar\CompraDolar\bin\Debug\net6.0\CompraDolar.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CompraDolar\CompraDolar\bin\Debug\net6.0\CompraDolar.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CompraDolar\CompraDolar\obj\Debug\net6.0\CompraDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CompraDolar\CompraDolar\obj\Debug\net6.0\CompraDolar.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CompraDolar\CompraDolar\obj\Debug\net6.0\CompraDolar.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CompraDolar\CompraDolar\obj\Debug\net6.0\CompraDolar.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CompraDolar\CompraDolar\obj\Debug\net6.0\CompraDolar.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CompraDolar\CompraDolar\obj\Debug\net6.0\refint\CompraDolar.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CompraDolar\CompraDolar\obj\Debug\net6.0\CompraDolar.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CompraDolar\CompraDolar\obj\Debug\net6.0\CompraDolar.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CompraDolar\CompraDolar\obj\Debug\net6.0\ref\CompraDolar.dll
