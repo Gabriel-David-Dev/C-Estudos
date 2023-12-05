@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AprovaAluno\AprovaAluno\bin\Debug\net6.0\AprovaAluno.exe
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AprovaAluno\AprovaAluno\bin\Debug\net6.0\AprovaAluno.deps.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AprovaAluno\AprovaAluno\bin\Debug\net6.0\AprovaAluno.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AprovaAluno\AprovaAluno\bin\Debug\net6.0\AprovaAluno.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AprovaAluno\AprovaAluno\bin\Debug\net6.0\AprovaAluno.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AprovaAluno\AprovaAluno\obj\Debug\net6.0\AprovaAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AprovaAluno\AprovaAluno\obj\Debug\net6.0\AprovaAluno.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AprovaAluno\AprovaAluno\obj\Debug\net6.0\AprovaAluno.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AprovaAluno\AprovaAluno\obj\Debug\net6.0\AprovaAluno.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AprovaAluno\AprovaAluno\obj\Debug\net6.0\AprovaAluno.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AprovaAluno\AprovaAluno\obj\Debug\net6.0\refint\AprovaAluno.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AprovaAluno\AprovaAluno\obj\Debug\net6.0\AprovaAluno.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AprovaAluno\AprovaAluno\obj\Debug\net6.0\AprovaAluno.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AprovaAluno\AprovaAluno\obj\Debug\net6.0\ref\AprovaAluno.dll
