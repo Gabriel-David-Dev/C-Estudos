@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AlugaQuarto\AlugaQuarto\bin\Debug\net6.0\AlugaQuarto.exe
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AlugaQuarto\AlugaQuarto\bin\Debug\net6.0\AlugaQuarto.deps.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AlugaQuarto\AlugaQuarto\bin\Debug\net6.0\AlugaQuarto.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AlugaQuarto\AlugaQuarto\bin\Debug\net6.0\AlugaQuarto.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AlugaQuarto\AlugaQuarto\bin\Debug\net6.0\AlugaQuarto.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AlugaQuarto\AlugaQuarto\obj\Debug\net6.0\AlugaQuarto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AlugaQuarto\AlugaQuarto\obj\Debug\net6.0\AlugaQuarto.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AlugaQuarto\AlugaQuarto\obj\Debug\net6.0\AlugaQuarto.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AlugaQuarto\AlugaQuarto\obj\Debug\net6.0\AlugaQuarto.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AlugaQuarto\AlugaQuarto\obj\Debug\net6.0\AlugaQuarto.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AlugaQuarto\AlugaQuarto\obj\Debug\net6.0\refint\AlugaQuarto.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AlugaQuarto\AlugaQuarto\obj\Debug\net6.0\AlugaQuarto.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AlugaQuarto\AlugaQuarto\obj\Debug\net6.0\AlugaQuarto.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\AlugaQuarto\AlugaQuarto\obj\Debug\net6.0\ref\AlugaQuarto.dll
