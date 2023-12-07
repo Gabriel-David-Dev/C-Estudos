@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\PesquisaSalario\PesquisaSalario\bin\Debug\net6.0\PesquisaSalario.exe
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\PesquisaSalario\PesquisaSalario\bin\Debug\net6.0\PesquisaSalario.deps.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\PesquisaSalario\PesquisaSalario\bin\Debug\net6.0\PesquisaSalario.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\PesquisaSalario\PesquisaSalario\bin\Debug\net6.0\PesquisaSalario.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\PesquisaSalario\PesquisaSalario\bin\Debug\net6.0\PesquisaSalario.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\PesquisaSalario\PesquisaSalario\obj\Debug\net6.0\PesquisaSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\PesquisaSalario\PesquisaSalario\obj\Debug\net6.0\PesquisaSalario.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\PesquisaSalario\PesquisaSalario\obj\Debug\net6.0\PesquisaSalario.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\PesquisaSalario\PesquisaSalario\obj\Debug\net6.0\PesquisaSalario.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\PesquisaSalario\PesquisaSalario\obj\Debug\net6.0\PesquisaSalario.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\PesquisaSalario\PesquisaSalario\obj\Debug\net6.0\refint\PesquisaSalario.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\PesquisaSalario\PesquisaSalario\obj\Debug\net6.0\PesquisaSalario.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\PesquisaSalario\PesquisaSalario\obj\Debug\net6.0\PesquisaSalario.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\PesquisaSalario\PesquisaSalario\obj\Debug\net6.0\ref\PesquisaSalario.dll
