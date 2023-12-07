@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ElementoMatriz\ElementoMatriz\bin\Debug\net6.0\ElementoMatriz.exe
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ElementoMatriz\ElementoMatriz\bin\Debug\net6.0\ElementoMatriz.deps.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ElementoMatriz\ElementoMatriz\bin\Debug\net6.0\ElementoMatriz.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ElementoMatriz\ElementoMatriz\bin\Debug\net6.0\ElementoMatriz.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ElementoMatriz\ElementoMatriz\bin\Debug\net6.0\ElementoMatriz.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ElementoMatriz\ElementoMatriz\obj\Debug\net6.0\ElementoMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ElementoMatriz\ElementoMatriz\obj\Debug\net6.0\ElementoMatriz.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ElementoMatriz\ElementoMatriz\obj\Debug\net6.0\ElementoMatriz.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ElementoMatriz\ElementoMatriz\obj\Debug\net6.0\ElementoMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ElementoMatriz\ElementoMatriz\obj\Debug\net6.0\ElementoMatriz.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ElementoMatriz\ElementoMatriz\obj\Debug\net6.0\refint\ElementoMatriz.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ElementoMatriz\ElementoMatriz\obj\Debug\net6.0\ElementoMatriz.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ElementoMatriz\ElementoMatriz\obj\Debug\net6.0\ElementoMatriz.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ElementoMatriz\ElementoMatriz\obj\Debug\net6.0\ref\ElementoMatriz.dll
