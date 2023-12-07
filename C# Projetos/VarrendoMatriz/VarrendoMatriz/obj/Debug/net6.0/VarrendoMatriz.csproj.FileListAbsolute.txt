@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\VarrendoMatriz\VarrendoMatriz\bin\Debug\net6.0\VarrendoMatriz.exe
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\VarrendoMatriz\VarrendoMatriz\bin\Debug\net6.0\VarrendoMatriz.deps.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\VarrendoMatriz\VarrendoMatriz\bin\Debug\net6.0\VarrendoMatriz.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\VarrendoMatriz\VarrendoMatriz\bin\Debug\net6.0\VarrendoMatriz.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\VarrendoMatriz\VarrendoMatriz\bin\Debug\net6.0\VarrendoMatriz.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\VarrendoMatriz\VarrendoMatriz\obj\Debug\net6.0\VarrendoMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\VarrendoMatriz\VarrendoMatriz\obj\Debug\net6.0\VarrendoMatriz.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\VarrendoMatriz\VarrendoMatriz\obj\Debug\net6.0\VarrendoMatriz.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\VarrendoMatriz\VarrendoMatriz\obj\Debug\net6.0\VarrendoMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\VarrendoMatriz\VarrendoMatriz\obj\Debug\net6.0\VarrendoMatriz.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\VarrendoMatriz\VarrendoMatriz\obj\Debug\net6.0\refint\VarrendoMatriz.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\VarrendoMatriz\VarrendoMatriz\obj\Debug\net6.0\VarrendoMatriz.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\VarrendoMatriz\VarrendoMatriz\obj\Debug\net6.0\VarrendoMatriz.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\VarrendoMatriz\VarrendoMatriz\obj\Debug\net6.0\ref\VarrendoMatriz.dll
