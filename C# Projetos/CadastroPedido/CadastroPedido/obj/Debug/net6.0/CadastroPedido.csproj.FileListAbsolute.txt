@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastroPedido\CadastroPedido\bin\Debug\net6.0\CadastroPedido.exe
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastroPedido\CadastroPedido\bin\Debug\net6.0\CadastroPedido.deps.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastroPedido\CadastroPedido\bin\Debug\net6.0\CadastroPedido.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastroPedido\CadastroPedido\bin\Debug\net6.0\CadastroPedido.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastroPedido\CadastroPedido\bin\Debug\net6.0\CadastroPedido.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastroPedido\CadastroPedido\obj\Debug\net6.0\CadastroPedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastroPedido\CadastroPedido\obj\Debug\net6.0\CadastroPedido.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastroPedido\CadastroPedido\obj\Debug\net6.0\CadastroPedido.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastroPedido\CadastroPedido\obj\Debug\net6.0\CadastroPedido.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastroPedido\CadastroPedido\obj\Debug\net6.0\CadastroPedido.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastroPedido\CadastroPedido\obj\Debug\net6.0\refint\CadastroPedido.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastroPedido\CadastroPedido\obj\Debug\net6.0\CadastroPedido.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastroPedido\CadastroPedido\obj\Debug\net6.0\CadastroPedido.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastroPedido\CadastroPedido\obj\Debug\net6.0\ref\CadastroPedido.dll
