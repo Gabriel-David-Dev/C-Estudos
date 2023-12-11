@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ComentariosDePostagem\ComentariosDePostagem\bin\Debug\net6.0\ComentariosDePostagem.exe
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ComentariosDePostagem\ComentariosDePostagem\bin\Debug\net6.0\ComentariosDePostagem.deps.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ComentariosDePostagem\ComentariosDePostagem\bin\Debug\net6.0\ComentariosDePostagem.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ComentariosDePostagem\ComentariosDePostagem\bin\Debug\net6.0\ComentariosDePostagem.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ComentariosDePostagem\ComentariosDePostagem\bin\Debug\net6.0\ComentariosDePostagem.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ComentariosDePostagem\ComentariosDePostagem\obj\Debug\net6.0\ComentariosDePostagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ComentariosDePostagem\ComentariosDePostagem\obj\Debug\net6.0\ComentariosDePostagem.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ComentariosDePostagem\ComentariosDePostagem\obj\Debug\net6.0\ComentariosDePostagem.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ComentariosDePostagem\ComentariosDePostagem\obj\Debug\net6.0\ComentariosDePostagem.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ComentariosDePostagem\ComentariosDePostagem\obj\Debug\net6.0\ComentariosDePostagem.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ComentariosDePostagem\ComentariosDePostagem\obj\Debug\net6.0\refint\ComentariosDePostagem.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ComentariosDePostagem\ComentariosDePostagem\obj\Debug\net6.0\ComentariosDePostagem.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ComentariosDePostagem\ComentariosDePostagem\obj\Debug\net6.0\ComentariosDePostagem.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\ComentariosDePostagem\ComentariosDePostagem\obj\Debug\net6.0\ref\ComentariosDePostagem.dll
