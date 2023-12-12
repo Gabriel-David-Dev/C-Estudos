@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\PagamentoFuncionario\PagamentoFuncionario\bin\Debug\net6.0\PagamentoFuncionario.exe
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\PagamentoFuncionario\PagamentoFuncionario\bin\Debug\net6.0\PagamentoFuncionario.deps.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\PagamentoFuncionario\PagamentoFuncionario\bin\Debug\net6.0\PagamentoFuncionario.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\PagamentoFuncionario\PagamentoFuncionario\bin\Debug\net6.0\PagamentoFuncionario.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\PagamentoFuncionario\PagamentoFuncionario\bin\Debug\net6.0\PagamentoFuncionario.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\PagamentoFuncionario\PagamentoFuncionario\obj\Debug\net6.0\PagamentoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\PagamentoFuncionario\PagamentoFuncionario\obj\Debug\net6.0\PagamentoFuncionario.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\PagamentoFuncionario\PagamentoFuncionario\obj\Debug\net6.0\PagamentoFuncionario.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\PagamentoFuncionario\PagamentoFuncionario\obj\Debug\net6.0\PagamentoFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\PagamentoFuncionario\PagamentoFuncionario\obj\Debug\net6.0\PagamentoFuncionario.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\PagamentoFuncionario\PagamentoFuncionario\obj\Debug\net6.0\refint\PagamentoFuncionario.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\PagamentoFuncionario\PagamentoFuncionario\obj\Debug\net6.0\PagamentoFuncionario.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\PagamentoFuncionario\PagamentoFuncionario\obj\Debug\net6.0\PagamentoFuncionario.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\PagamentoFuncionario\PagamentoFuncionario\obj\Debug\net6.0\ref\PagamentoFuncionario.dll
