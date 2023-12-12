@@ -22,7 +22,7 @@ namespace PagamentoFuncionario
                     Console.WriteLine($"Dados do {contador}° funcionário:");
                     Console.Write("Terceirizado (s/n): ");
                     char resposta = char.Parse(Console.ReadLine().ToLower());
-                    Funcionario.ValidaTerceirizado(resposta); // Metodo que válida a resposta
+                    resposta = Funcionario.ValidaTerceirizado(resposta); // Metodo que válida a resposta
                     Console.Write("Nome: ");
                     string nome = Console.ReadLine();
                     Console.Write("Horas: ");

@@ -13,7 +13,7 @@
             ValorPorHora = valorPorHora;
         }
 
-        public static void ValidaTerceirizado(char resposta)
+        public static char ValidaTerceirizado(char resposta)
         {
             while (resposta != 's' && resposta != 'n')
             {
@@ -21,6 +21,8 @@
                 Console.Write("Terceirizado (s/n): ");
                 resposta = char.Parse(Console.ReadLine().ToLower());
             }
+
+            return resposta;
         }
 
         public virtual double Pagamento()
