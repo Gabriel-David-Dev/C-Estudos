@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastraPessoaCalculaImposto\CadastraPessoaCalculaImposto\bin\Debug\net6.0\CadastraPessoaCalculaImposto.exe
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastraPessoaCalculaImposto\CadastraPessoaCalculaImposto\bin\Debug\net6.0\CadastraPessoaCalculaImposto.deps.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastraPessoaCalculaImposto\CadastraPessoaCalculaImposto\bin\Debug\net6.0\CadastraPessoaCalculaImposto.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastraPessoaCalculaImposto\CadastraPessoaCalculaImposto\bin\Debug\net6.0\CadastraPessoaCalculaImposto.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastraPessoaCalculaImposto\CadastraPessoaCalculaImposto\bin\Debug\net6.0\CadastraPessoaCalculaImposto.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastraPessoaCalculaImposto\CadastraPessoaCalculaImposto\obj\Debug\net6.0\CadastraPessoaCalculaImposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastraPessoaCalculaImposto\CadastraPessoaCalculaImposto\obj\Debug\net6.0\CadastraPessoaCalculaImposto.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastraPessoaCalculaImposto\CadastraPessoaCalculaImposto\obj\Debug\net6.0\CadastraPessoaCalculaImposto.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastraPessoaCalculaImposto\CadastraPessoaCalculaImposto\obj\Debug\net6.0\CadastraPessoaCalculaImposto.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastraPessoaCalculaImposto\CadastraPessoaCalculaImposto\obj\Debug\net6.0\CadastraPessoaCalculaImposto.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastraPessoaCalculaImposto\CadastraPessoaCalculaImposto\obj\Debug\net6.0\refint\CadastraPessoaCalculaImposto.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastraPessoaCalculaImposto\CadastraPessoaCalculaImposto\obj\Debug\net6.0\CadastraPessoaCalculaImposto.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastraPessoaCalculaImposto\CadastraPessoaCalculaImposto\obj\Debug\net6.0\CadastraPessoaCalculaImposto.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastraPessoaCalculaImposto\CadastraPessoaCalculaImposto\obj\Debug\net6.0\ref\CadastraPessoaCalculaImposto.dll
