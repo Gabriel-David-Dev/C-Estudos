@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CalculaAreas\CalculaAreas\bin\Debug\net6.0\CalculaAreas.exe
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CalculaAreas\CalculaAreas\bin\Debug\net6.0\CalculaAreas.deps.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CalculaAreas\CalculaAreas\bin\Debug\net6.0\CalculaAreas.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CalculaAreas\CalculaAreas\bin\Debug\net6.0\CalculaAreas.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CalculaAreas\CalculaAreas\bin\Debug\net6.0\CalculaAreas.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CalculaAreas\CalculaAreas\obj\Debug\net6.0\CalculaAreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CalculaAreas\CalculaAreas\obj\Debug\net6.0\CalculaAreas.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CalculaAreas\CalculaAreas\obj\Debug\net6.0\CalculaAreas.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CalculaAreas\CalculaAreas\obj\Debug\net6.0\CalculaAreas.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CalculaAreas\CalculaAreas\obj\Debug\net6.0\CalculaAreas.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CalculaAreas\CalculaAreas\obj\Debug\net6.0\refint\CalculaAreas.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CalculaAreas\CalculaAreas\obj\Debug\net6.0\CalculaAreas.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CalculaAreas\CalculaAreas\obj\Debug\net6.0\CalculaAreas.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CalculaAreas\CalculaAreas\obj\Debug\net6.0\ref\CalculaAreas.dll
