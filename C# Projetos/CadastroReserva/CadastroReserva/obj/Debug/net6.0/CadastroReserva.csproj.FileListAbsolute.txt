@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastroReserva\CadastroReserva\bin\Debug\net6.0\CadastroReserva.exe
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastroReserva\CadastroReserva\bin\Debug\net6.0\CadastroReserva.deps.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastroReserva\CadastroReserva\bin\Debug\net6.0\CadastroReserva.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastroReserva\CadastroReserva\bin\Debug\net6.0\CadastroReserva.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastroReserva\CadastroReserva\bin\Debug\net6.0\CadastroReserva.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastroReserva\CadastroReserva\obj\Debug\net6.0\CadastroReserva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastroReserva\CadastroReserva\obj\Debug\net6.0\CadastroReserva.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastroReserva\CadastroReserva\obj\Debug\net6.0\CadastroReserva.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastroReserva\CadastroReserva\obj\Debug\net6.0\CadastroReserva.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastroReserva\CadastroReserva\obj\Debug\net6.0\CadastroReserva.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastroReserva\CadastroReserva\obj\Debug\net6.0\refint\CadastroReserva.dll
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastroReserva\CadastroReserva\obj\Debug\net6.0\CadastroReserva.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastroReserva\CadastroReserva\obj\Debug\net6.0\CadastroReserva.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programação\C#\GitHub\C# Projetos\CadastroReserva\CadastroReserva\obj\Debug\net6.0\ref\CadastroReserva.dll
