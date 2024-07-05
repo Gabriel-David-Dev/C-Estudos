@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula143\Aula143\bin\Debug\net6.0\Aula143.exe
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula143\Aula143\bin\Debug\net6.0\Aula143.deps.json
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula143\Aula143\bin\Debug\net6.0\Aula143.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula143\Aula143\bin\Debug\net6.0\Aula143.dll
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula143\Aula143\bin\Debug\net6.0\Aula143.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula143\Aula143\obj\Debug\net6.0\Aula143.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula143\Aula143\obj\Debug\net6.0\Aula143.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula143\Aula143\obj\Debug\net6.0\Aula143.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula143\Aula143\obj\Debug\net6.0\Aula143.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula143\Aula143\obj\Debug\net6.0\Aula143.dll
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula143\Aula143\obj\Debug\net6.0\refint\Aula143.dll
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula143\Aula143\obj\Debug\net6.0\Aula143.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula143\Aula143\obj\Debug\net6.0\Aula143.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula143\Aula143\obj\Debug\net6.0\ref\Aula143.dll

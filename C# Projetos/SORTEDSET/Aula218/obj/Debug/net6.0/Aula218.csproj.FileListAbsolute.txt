@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula218\Aula218\bin\Debug\net6.0\Aula218.exe
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula218\Aula218\bin\Debug\net6.0\Aula218.deps.json
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula218\Aula218\bin\Debug\net6.0\Aula218.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula218\Aula218\bin\Debug\net6.0\Aula218.dll
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula218\Aula218\bin\Debug\net6.0\Aula218.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula218\Aula218\obj\Debug\net6.0\Aula218.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula218\Aula218\obj\Debug\net6.0\Aula218.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula218\Aula218\obj\Debug\net6.0\Aula218.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula218\Aula218\obj\Debug\net6.0\Aula218.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula218\Aula218\obj\Debug\net6.0\Aula218.dll
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula218\Aula218\obj\Debug\net6.0\refint\Aula218.dll
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula218\Aula218\obj\Debug\net6.0\Aula218.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula218\Aula218\obj\Debug\net6.0\Aula218.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula218\Aula218\obj\Debug\net6.0\ref\Aula218.dll

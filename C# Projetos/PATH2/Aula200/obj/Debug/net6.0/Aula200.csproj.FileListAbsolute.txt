@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula200\Aula200\bin\Debug\net6.0\Aula200.exe
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula200\Aula200\bin\Debug\net6.0\Aula200.deps.json
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula200\Aula200\bin\Debug\net6.0\Aula200.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula200\Aula200\bin\Debug\net6.0\Aula200.dll
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula200\Aula200\bin\Debug\net6.0\Aula200.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula200\Aula200\obj\Debug\net6.0\Aula200.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula200\Aula200\obj\Debug\net6.0\Aula200.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula200\Aula200\obj\Debug\net6.0\Aula200.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula200\Aula200\obj\Debug\net6.0\Aula200.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula200\Aula200\obj\Debug\net6.0\Aula200.dll
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula200\Aula200\obj\Debug\net6.0\refint\Aula200.dll
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula200\Aula200\obj\Debug\net6.0\Aula200.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula200\Aula200\obj\Debug\net6.0\Aula200.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula200\Aula200\obj\Debug\net6.0\ref\Aula200.dll

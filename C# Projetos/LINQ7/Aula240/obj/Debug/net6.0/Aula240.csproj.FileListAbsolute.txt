@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula240\Aula240\obj\Debug\net6.0\Aula240.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula240\Aula240\obj\Debug\net6.0\Aula240.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula240\Aula240\obj\Debug\net6.0\Aula240.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula240\Aula240\obj\Debug\net6.0\Aula240.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula240\Aula240\bin\Debug\net6.0\Aula240.exe
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula240\Aula240\bin\Debug\net6.0\Aula240.deps.json
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula240\Aula240\bin\Debug\net6.0\Aula240.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula240\Aula240\bin\Debug\net6.0\Aula240.dll
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula240\Aula240\bin\Debug\net6.0\Aula240.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula240\Aula240\obj\Debug\net6.0\Aula240.dll
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula240\Aula240\obj\Debug\net6.0\refint\Aula240.dll
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula240\Aula240\obj\Debug\net6.0\Aula240.pdb
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula240\Aula240\obj\Debug\net6.0\Aula240.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Programação\C#\Aulas\Aula240\Aula240\obj\Debug\net6.0\ref\Aula240.dll

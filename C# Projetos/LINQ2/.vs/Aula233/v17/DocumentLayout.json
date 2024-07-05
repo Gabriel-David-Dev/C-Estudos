@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\Desktop\\Programa\u00E7\u00E3o\\C#\\Aulas\\Aula233\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95446580-9F5F-487E-891C-EBD83A292D0B}|Aula233\\Aula233.csproj|c:\\users\\gabriel\\desktop\\programa\u00E7\u00E3o\\c#\\aulas\\aula233\\aula233\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95446580-9F5F-487E-891C-EBD83A292D0B}|Aula233\\Aula233.csproj|solutionrelative:aula233\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Programa\u00E7\u00E3o\\C#\\Aulas\\Aula233\\Aula233\\Program.cs",
+              "RelativeDocumentMoniker": "Aula233\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Programa\u00E7\u00E3o\\C#\\Aulas\\Aula233\\Aula233\\Program.cs",
+              "RelativeToolTip": "Aula233\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T21:25:12.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
